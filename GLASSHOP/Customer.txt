@@ -1,0 +1,10 @@
+C001,Zainal Abidin,28,Male,0123456789,zainal.abidin@gmail.com
+C002,Amina Yusuf,34,Female,0198765432,amina.yusuf@gmail.com
+C003,Faizal Rahman,22,Male,0135432109,faizal.rahman@gmail.com
+C004,Liyana Syafiq,30,Female,0146543210,liyana.syafiq@gmail.com
+C005,Amirul Zahid,27,Male,0129876543,amirul.zahid@gmail.com
+C006,Fatin Shahirah,25,Female,0167654321,fatin.shahirah@gmail.com
+C007,Khairul Azim,29,Male,0134567890,khairul.azim@gmail.com
+C008,Nadia Suri,31,Female,0191234567,nadia.suri@gmail.com
+C009,Ridhwan Kamil,24,Male,0123344556,ridhwan.kamil@gmail.com
+C010,Siti Nur Aisyah,26,Female,0167890123,siti.nur.aisyah@gmail.com

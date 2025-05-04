@@ -1,0 +1,10 @@
+P001,VisionClear,Prescription,250.0
+P002,OptiView,Sunglasses,150.0
+P003,EyeLux,Prescription,300.0
+P004,ClearSight,Reading Glasses,120.0
+P005,SunShade,Sunglasses,180.0
+P006,FocusLens,Prescription,350.0
+P007,TrendGlare,Sunglasses,220.0
+P008,SmartLens,Blue Light Blocking,250.0
+P009,PureVision,Prescription,400.0
+P010,SunGaze,Sunglasses,140.0
